@@ -2,12 +2,6 @@
 
 ############################################################################################################################################################################################################################################################################################################################################################################################
 
-Welcome to the Bookstore Management System! To get a better understanding of how the system works, we highly recommend watching our demo video. 
-
-The demo provides a visual walkthrough of the system's functionalities, including user authentication, inventory management, search capabilities, and more. It showcases how seamlessly the frontend and backend components work together to create a smooth user experience.Feel free to reach out if you have any questions or need further assistance. We hope you find the demo helpful in understanding the capabilities of our Bookstore Management System. Thank you for your interest!
-
-############################################################################################################################################################################################################################################################################################################################################################################################
-
 The Bookstore Management System is a comprehensive web application designed to streamline the operations of a bookstore, facilitating efficient management of inventory and enhancing user experience. With a user-friendly interface, the system enables users to seamlessly navigate through various functionalities.
 
 Workflow:
